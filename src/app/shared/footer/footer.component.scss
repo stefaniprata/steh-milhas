@@ -1,0 +1,19 @@
+footer{
+    background-color: var(--color-dark-black-600);
+    color: var(--color-white);
+    padding: 2rem 0;
+
+    .spacer{
+        flex: 1 1 auto;
+    }
+
+    ul.socials{
+        li{
+            padding-bottom: .5rem;
+        }
+        a{
+            color: var(--color-white);
+            font-size: var(--size-xxl);
+        }
+    }
+}

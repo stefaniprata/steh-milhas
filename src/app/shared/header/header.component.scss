@@ -1,0 +1,18 @@
+.app-header {
+  .mat-toolbar {
+    background-color: var(--bg-container);
+    padding: 2.5rem 3rem;
+  }
+
+  .primary-button {
+    background-color: var(--color-primary);
+  }
+
+  .spacer {
+    flex: 1 1 auto;
+  }
+  
+  button{
+    margin: 0 0.5rem;
+  }
+}
