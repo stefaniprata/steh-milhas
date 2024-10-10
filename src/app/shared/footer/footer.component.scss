@@ -1,15 +1,15 @@
 footer{
     background-color: var(--color-dark-black-600);
     color: var(--color-white);
+    text-align: center;
     padding: 2rem 0;
 
-    .spacer{
-        flex: 1 1 auto;
-    }
-
     ul.socials{
+        margin-top: .5rem;
+
         li{
-            padding-bottom: .5rem;
+            padding: 0 .5rem;
+            display: inline;
         }
         a{
             color: var(--color-white);
